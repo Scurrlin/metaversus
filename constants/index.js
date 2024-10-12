@@ -27,23 +27,23 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Find a world that piques your curiousity',
+  'Ensure your hardware can handle the journey',
+  'Jump in, explore, and enjoy your adventure!',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: '4k Resolution',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Enjoy our latest visual update supporting enhanced 4K resolution with zero frame drops!',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Immersive Realism',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'With advanced eye-tracking technology, every glance and movement will feel more lifelike than ever before!',
   },
 ];
 
