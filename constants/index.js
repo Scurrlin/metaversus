@@ -29,7 +29,7 @@ export const exploreWorlds = [
 export const startingFeatures = [
   'Find a world that piques your curiousity',
   'Ensure your hardware can handle the journey',
-  'Jump in, explore, and enjoy your adventure!',
+  'Jump in and enjoy your adventure!',
 ];
 
 export const newFeatures = [

@@ -16,11 +16,10 @@ const World = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
 
-      <TypingText title="| People on the World" textStyles="text-center" />
+      <TypingText title="| Connect with Friends" textStyles="text-center" />
       <TitleText
         title={(
-          <>Track friends around you and invite them to play together in the same
-            world
+          <>Stay connected with our built-in social network, or fly solo in incognito mode!
           </>
         )}
         textStyles="text-center"
