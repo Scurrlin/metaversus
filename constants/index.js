@@ -50,21 +50,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Meteor Shower Spectacle Draws Over 1 Million Viewers',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'The virtual world\'s first-ever meteor shower event captivates over a million participants, offering a stunning visual experience in the Metaverse.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 Tips to Stay Safe in the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Navigate the digital world in peace with these essential safety tips for protecting your identity.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'Indie Darling Hazelight Studios Launches First Metaverse Game',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'The renowned indie studio behind "It Takes Two" ventures into the Metaverse with their highly anticipated debut game, "Rocket Fuel".',
   },
 ];
 
