@@ -1,5 +1,5 @@
 # Metaversus
-A highly stylized, Metaverse-themed website design. Built with NextJS, Tailwind CSS, and Framer Motion.
+A highly stylized, Metaverse-themed website design.
 
 ![banner_image](public/readme-assets/banner.jpg)
 
