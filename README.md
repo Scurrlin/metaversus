@@ -4,7 +4,7 @@ A highly stylized, Metaverse-themed website design.
 ![banner_image](public/readme-assets/banner.jpg)
 
 ## Technologies Used
-* NextJS
+* Next.js
 * Tailwind CSS
 * Framer Motion
 
